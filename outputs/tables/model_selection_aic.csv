@@ -1,0 +1,257 @@
+Model,n_predictors,AIC,BIC
+log_population + median_age + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,5,29.524101411939252,41.115055208285206
+log_population + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,4,29.82452878159716,39.48365694521878
+log_population + birth_rate + health_insurance_coverage_pct + median_rent,4,30.111326085219552,39.770454248841176
+log_population + birth_rate + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,5,30.263467584988053,41.85442138133401
+log_population + median_age + health_insurance_coverage_pct + median_rent,4,30.276106085496124,39.935234249117755
+log_total_area + log_population + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,5,30.805880379261435,42.39683417560739
+log_total_area + birth_rate + hdi + unemployment_rate_pct,4,30.81652779550914,40.47565595913076
+log_population + median_age + hdi + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,6,30.8165816628363,44.33936109190658
+median_age + health_insurance_coverage_pct + median_rent,3,30.882244067059393,38.609546597956694
+log_total_area + log_population + birth_rate + hdi + unemployment_rate_pct,5,30.96040624382355,42.5513600401695
+log_total_area + hdi + unemployment_rate_pct,3,30.994691637620416,38.72199416851772
+birth_rate + health_insurance_coverage_pct + median_rent,3,31.05828921721302,38.78559174811032
+log_total_area + log_population + hdi + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,6,31.099732864999638,44.62251229406992
+log_total_area + birth_rate + health_insurance_coverage_pct + median_rent,4,31.170490486819507,40.829618650441134
+log_total_area + log_population + hdi + unemployment_rate_pct,4,31.358476710308274,41.0176048739299
+log_total_area + log_population + birth_rate + health_insurance_coverage_pct + median_rent,5,31.461141818279955,43.05209561462591
+log_total_area + log_population + median_age + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,6,31.462498821120874,44.98527825019116
+log_population + median_age + birth_rate + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,6,31.507319691067558,45.030099120137834
+log_population + hdi + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,5,31.548243689883105,43.13919748622906
+log_total_area + health_insurance_coverage_pct + median_rent,3,31.578352674074047,39.30565520497135
+log_population + median_age + birth_rate + health_insurance_coverage_pct + median_rent,5,31.589458066863607,43.18041186320956
+log_total_area + log_population + birth_rate + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,6,31.66056333682461,45.18334276589489
+health_insurance_coverage_pct + median_rent,2,31.71609998446691,37.511576882639886
+log_population + health_insurance_coverage_pct + median_rent,3,31.7659560607372,39.4932585916345
+log_total_area + log_population + hdi + unemployment_rate_pct + health_insurance_coverage_pct,5,31.913108117037844,43.504061913383794
+log_population + birth_rate + hdi + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,6,32.05783683577731,45.58061626484759
+log_total_area + hdi + unemployment_rate_pct + health_insurance_coverage_pct,4,32.06540945558497,41.7245376192066
+log_population + birth_rate + hdi + health_insurance_coverage_pct + median_rent,5,32.085130021105286,43.676083817451236
+median_age + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,4,32.14468711953374,41.80381528315537
+log_total_area + median_age + health_insurance_coverage_pct + median_rent,4,32.1552737797638,41.81440194338543
+log_total_area + log_population + median_age + health_insurance_coverage_pct + median_rent,5,32.211834160401395,43.802787956747345
+log_total_area + median_age + hdi + unemployment_rate_pct,4,32.22972128770985,41.888849451331474
+log_total_area + log_population + median_age + hdi + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,7,32.23532584492821,47.68993090672282
+log_population + median_age + hdi + health_insurance_coverage_pct + median_rent,5,32.273936150397006,43.86488994674296
+log_total_area + log_population + birth_rate + hdi + unemployment_rate_pct + health_insurance_coverage_pct,6,32.32512169536814,45.84790112443842
+log_total_area + birth_rate + hdi + unemployment_rate_pct + health_insurance_coverage_pct,5,32.3478624088478,43.93881620519376
+log_total_area + log_population + birth_rate + hdi + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,7,32.42150174001338,47.87610680180799
+median_age + birth_rate + health_insurance_coverage_pct + median_rent,4,32.49986603200566,42.15899419562729
+log_total_area + log_population + health_insurance_coverage_pct + median_rent,4,32.55759535981074,42.216723523432364
+log_total_area + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,4,32.561957945350755,42.221086108972386
+log_total_area + log_population + median_age + hdi + unemployment_rate_pct,5,32.64547334993383,44.23642714627978
+birth_rate + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,4,32.69154070192521,42.35066886554684
+log_total_area + birth_rate + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,5,32.761315542393824,44.352269338739774
+log_total_area + birth_rate + hdi + unemployment_rate_pct + median_rent,5,32.794442264063875,44.385396060409825
+log_total_area + log_population + birth_rate + hdi + unemployment_rate_pct + median_rent,6,32.79734281828655,46.320122247356835
+log_population + median_age + birth_rate + hdi + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,7,32.81296212145047,48.26756718324508
+median_age + hdi + health_insurance_coverage_pct + median_rent,4,32.81417614904639,42.47330431266802
+log_total_area + median_age + birth_rate + hdi + unemployment_rate_pct,5,32.81591391668408,44.40686771303004
+unemployment_rate_pct + health_insurance_coverage_pct + median_rent,3,32.81708545873593,40.544387989633236
+log_total_area + birth_rate + hdi + median_rent,4,32.82440928430198,42.4835374479236
+log_total_area + birth_rate + hdi + health_insurance_coverage_pct + median_rent,5,32.857716182953666,44.44866997929962
+log_total_area + log_population + hdi + unemployment_rate_pct + median_rent,5,32.91332370394991,44.504277500295856
+birth_rate + hdi + health_insurance_coverage_pct + median_rent,4,32.93385500641163,42.592983170033264
+log_total_area + log_population + median_age + birth_rate + hdi + unemployment_rate_pct,6,32.95523571491694,46.478015143987214
+log_total_area + hdi + unemployment_rate_pct + median_rent,4,32.95971199143476,42.61884015505639
+log_population + median_age + hdi + unemployment_rate_pct + health_insurance_coverage_pct,5,32.96757516931273,44.55852896565868
+log_total_area + log_population + median_age + hdi + unemployment_rate_pct + health_insurance_coverage_pct,6,32.97284542593658,46.49562485500687
+log_total_area + hdi + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,5,33.098997533598194,44.68995132994415
+log_total_area + median_age + birth_rate + health_insurance_coverage_pct + median_rent,5,33.170463678727174,44.761417475073124
+log_total_area + birth_rate + hdi,3,33.17240724796036,40.89970977885766
+log_total_area + median_age + hdi + unemployment_rate_pct + health_insurance_coverage_pct,5,33.21381461405168,44.80476841039763
+log_total_area + hdi + health_insurance_coverage_pct + median_rent,4,33.23284500933373,42.89197317295536
+log_total_area + log_population + birth_rate + hdi + health_insurance_coverage_pct + median_rent,6,33.25642527486484,46.77920470393512
+log_total_area + log_population + median_age + birth_rate + health_insurance_coverage_pct + median_rent,6,33.348088805984325,46.8708682350546
+log_total_area + median_age + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,5,33.403440241896526,44.994394038242476
+log_total_area + log_population + median_age + birth_rate + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,7,33.40587367218947,48.860478733984074
+hdi + health_insurance_coverage_pct + median_rent,3,33.461091342673626,41.18839387357093
+log_population + median_age + birth_rate + hdi + health_insurance_coverage_pct + median_rent,6,33.5467420161,47.06952144517028
+median_age + hdi + unemployment_rate_pct + health_insurance_coverage_pct,4,33.55205524537037,43.211183408992
+median_age + hdi + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,5,33.577885634382255,45.16883943072821
+log_total_area + birth_rate + hdi + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,6,33.67048031932714,47.19325974839742
+log_population + hdi + health_insurance_coverage_pct + median_rent,4,33.72465482168671,43.383782985308336
+median_age + birth_rate + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,5,33.977572842977175,45.568526639323125
+log_total_area + median_age + hdi + health_insurance_coverage_pct + median_rent,5,34.01087692725301,45.601830723598965
+hdi + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,4,34.0701189442625,43.72924710788412
+median_age + hdi + unemployment_rate_pct,3,34.08370786017774,41.81101039107504
+log_total_area + log_population + birth_rate + hdi + median_rent,5,34.109527981312986,45.700481777658936
+log_total_area + log_population + median_age + birth_rate + hdi + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,8,34.19821339593857,51.5846440904575
+log_total_area + log_population + median_age + hdi + health_insurance_coverage_pct + median_rent,6,34.200348515155355,47.72312794422563
+log_total_area + median_age + hdi + unemployment_rate_pct + median_rent,5,34.221376976982484,45.81233077332844
+log_total_area + log_population + median_age + birth_rate + hdi + unemployment_rate_pct + health_insurance_coverage_pct,7,34.28426340218033,49.73886846397494
+birth_rate + hdi + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,5,34.323395905799345,45.914349702145294
+log_total_area + median_age + birth_rate + hdi + unemployment_rate_pct + health_insurance_coverage_pct,6,34.34560676620906,47.86838619527934
+log_total_area + median_age + hdi + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,6,34.36360537044479,47.88638479951506
+log_total_area + log_population + median_age + hdi + unemployment_rate_pct + median_rent,6,34.376250687546886,47.89903011661717
+log_total_area + log_population + hdi + health_insurance_coverage_pct + median_rent,5,34.4039324018594,45.99488619820535
+median_age + birth_rate + hdi + health_insurance_coverage_pct + median_rent,5,34.40519156578027,45.99614536212623
+log_total_area + hdi + median_rent,3,34.49470699610933,42.22200952700663
+log_total_area + median_age + birth_rate + hdi + median_rent,5,34.739735658609305,46.33068945495526
+log_total_area + median_age + birth_rate + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,6,34.755721304520904,48.27850073359119
+log_population + median_age + hdi + unemployment_rate_pct,4,34.761208746942614,44.42033691056424
+log_total_area + median_age + birth_rate + hdi + unemployment_rate_pct + median_rent,6,34.79201968838622,48.3147991174565
+log_total_area + log_population + median_age + birth_rate + hdi + unemployment_rate_pct + median_rent,7,34.794086998460514,50.248692060255124
+log_total_area + median_age + birth_rate + hdi + health_insurance_coverage_pct + median_rent,6,34.84863626978844,48.37141569885872
+log_population + median_age + birth_rate + hdi + unemployment_rate_pct + health_insurance_coverage_pct,6,34.88217037691146,48.40494980598174
+log_total_area + birth_rate + hdi + health_insurance_coverage_pct,4,35.11208033713421,44.77120850075583
+log_total_area + median_age + birth_rate + hdi,4,35.147323433612875,44.8064515972345
+log_total_area + log_population + birth_rate + hdi,4,35.172060779073426,44.83118894269505
+log_total_area + log_population + median_age + birth_rate + hdi + health_insurance_coverage_pct + median_rent,7,35.18742328140151,50.64202834319612
+median_age + birth_rate + hdi + unemployment_rate_pct,4,35.44540677737349,45.10453494099512
+median_age + birth_rate + hdi + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,6,35.48068470978576,49.003464138856046
+median_age + birth_rate + hdi + unemployment_rate_pct + health_insurance_coverage_pct,5,35.483417518646306,47.074371314992256
+log_total_area + median_age + hdi + median_rent,4,35.63299769878118,45.292125862402806
+log_total_area + median_age + birth_rate + hdi + unemployment_rate_pct + health_insurance_coverage_pct + median_rent,7,35.67019984426288,51.12480490605749
+log_population + median_age + birth_rate + hdi + unemployment_rate_pct,5,35.7698113480456,47.36076514439155
+median_age + hdi + unemployment_rate_pct + median_rent,4,35.81691388154434,45.47604204516596
+birth_rate + hdi + median_rent,3,35.88299344486698,43.61029597576429
+hdi + unemployment_rate_pct + health_insurance_coverage_pct,3,36.01971574691291,43.747018277810206
+log_total_area + log_population + median_age + birth_rate + hdi + median_rent,6,36.05943557007501,49.58221499914529
+birth_rate + hdi + unemployment_rate_pct + health_insurance_coverage_pct,4,36.06486432076284,45.72399248438447
+log_population + birth_rate + hdi + unemployment_rate_pct + health_insurance_coverage_pct,5,36.20561796102473,47.796571757370685
+log_population + median_age + hdi + unemployment_rate_pct + median_rent,5,36.30320851031293,47.894162306658885
+log_population + hdi + unemployment_rate_pct + health_insurance_coverage_pct,4,36.370018765902486,46.02914692952412
+log_total_area + log_population + hdi + median_rent,4,36.39508346824553,46.05421163186716
+median_age + birth_rate + hdi + median_rent,4,36.508062034834936,46.16719019845656
+median_age + hdi + median_rent,3,36.61079308424639,44.33809561514369
+birth_rate + hdi + unemployment_rate_pct,3,36.795406431127155,44.52270896202446
+log_population + birth_rate + hdi + median_rent,4,36.870608325885534,46.52973648950716
+log_total_area + median_age + birth_rate + hdi + health_insurance_coverage_pct,5,37.09352127489246,48.68447507123841
+log_total_area + log_population + birth_rate + hdi + health_insurance_coverage_pct,5,37.11205937914726,48.70301317549321
+median_age + birth_rate + hdi + unemployment_rate_pct + median_rent,5,37.1230107148214,48.71396451116735
+log_total_area + log_population + median_age + birth_rate + hdi,5,37.14731108057546,48.73826487692142
+log_population + median_age + birth_rate + hdi + unemployment_rate_pct + median_rent,6,37.32784307427008,50.85062250334036
+median_age + birth_rate + hdi,3,37.335612730557386,45.06291526145469
+birth_rate + hdi,2,37.339831443639376,43.135308341812355
+log_population + median_age + birth_rate + hdi + median_rent,5,37.41714492607015,49.0080987224161
+log_total_area + birth_rate + median_rent,3,37.48174819884507,45.20905072974237
+log_total_area + log_population + median_age + hdi + median_rent,5,37.48310446447298,49.07405826081893
+birth_rate + hdi + unemployment_rate_pct + median_rent,4,37.51424164139755,47.17336980501918
+log_total_area + hdi,2,37.65072937932011,43.44620627749309
+log_population + birth_rate + hdi + unemployment_rate_pct,4,37.68090202384928,47.3400301874709
+log_population + median_age + hdi + median_rent,4,38.03437943503066,47.69350759865229
+log_total_area + log_population + hdi,3,38.03696195929817,45.76426449019547
+log_population + birth_rate + hdi + unemployment_rate_pct + median_rent,5,38.10415464738471,49.69510844373066
+birth_rate + hdi + health_insurance_coverage_pct,3,38.13044911240739,45.857751643304695
+log_total_area + median_age + hdi,3,38.28670740707242,46.014009937969725
+hdi + unemployment_rate_pct,2,38.40398083349102,44.199457731664
+median_age + birth_rate + hdi + health_insurance_coverage_pct,4,38.512465996997314,48.17159416061894
+log_total_area + log_population + birth_rate + median_rent,4,38.72948653089613,48.388614694517756
+hdi + median_rent,2,38.797266979341316,44.592743877514295
+log_total_area + hdi + health_insurance_coverage_pct,3,39.074725863365884,46.80202839426319
+log_total_area + log_population + median_age + birth_rate + hdi + health_insurance_coverage_pct,6,39.09296497758642,52.6157444066567
+log_total_area + log_population + median_age + hdi,4,39.10625260169049,48.765380765312116
+log_population + median_age + birth_rate + hdi,4,39.11835850511432,48.777486668735946
+log_population + birth_rate + hdi,3,39.29300607135393,47.02030860225123
+log_total_area + median_age + birth_rate + median_rent,4,39.433586413366356,49.09271457698799
+hdi + unemployment_rate_pct + median_rent,3,39.438401059333174,47.16570359023047
+log_total_area + birth_rate + unemployment_rate_pct + median_rent,4,39.471378433631926,49.13050659725356
+log_total_area + median_age + hdi + health_insurance_coverage_pct,4,39.53830281328696,49.19743097690859
+median_age + hdi + health_insurance_coverage_pct,3,39.64750268661503,47.374805217512325
+log_total_area + log_population + hdi + health_insurance_coverage_pct,4,39.664753492705564,49.32388165632719
+log_population + hdi + unemployment_rate_pct,3,39.91077447451074,47.63807700540804
+log_population + birth_rate + hdi + health_insurance_coverage_pct,4,40.063160765250856,49.72228892887249
+median_age + hdi,2,40.20178141305973,45.997258311232706
+log_population + median_age + birth_rate + hdi + health_insurance_coverage_pct,5,40.317824165707336,51.908777962053286
+log_population + hdi + median_rent,3,40.45841659407641,48.185719124973716
+log_population + hdi + unemployment_rate_pct + median_rent,4,40.488626006812424,50.147754170434055
+log_total_area + log_population + median_age + hdi + health_insurance_coverage_pct,5,40.623609334750235,52.214563131096185
+log_total_area + log_population + median_age + birth_rate + median_rent,5,40.652395452463026,52.24334924880898
+log_total_area + log_population + birth_rate + unemployment_rate_pct + median_rent,5,40.67750262636683,52.26845642271279
+log_total_area + median_age + median_rent,3,41.17857558096133,48.905878111858634
+hdi + health_insurance_coverage_pct,2,41.25825377895774,47.053730677130716
+log_total_area + median_rent,2,41.39809955909492,47.1935764572679
+log_total_area + median_age + birth_rate + unemployment_rate_pct + median_rent,5,41.421628600769765,53.01258239711572
+log_population + median_age + hdi + health_insurance_coverage_pct,4,41.55065370413274,51.20978186775437
+log_population + median_age + hdi,3,42.045672209826826,49.77297474072413
+hdi,1,42.12477178193447,45.98842304738312
+median_age + birth_rate + median_rent,3,42.43720925509671,50.164511785994016
+log_total_area + log_population + median_age + median_rent,4,42.492223984144005,52.151352147765635
+log_total_area + log_population + median_rent,3,42.59257352924232,50.31987606013963
+log_total_area + log_population + median_age + birth_rate + unemployment_rate_pct + median_rent,6,42.596334505695296,56.11911393476557
+log_population + hdi + health_insurance_coverage_pct,3,42.91895530153292,50.64625783243022
+log_population + median_age + birth_rate + median_rent,4,42.997744988005735,52.656873151627366
+log_population + birth_rate + median_rent,3,43.00073704881445,50.728039579711755
+log_total_area + median_age + unemployment_rate_pct + median_rent,4,43.17772865684143,52.836856820463055
+birth_rate + median_rent,2,43.240512479285776,49.035989377458755
+log_total_area + unemployment_rate_pct + median_rent,3,43.39680642362903,51.124108954526335
+median_age + median_rent,2,43.56189496288546,49.35737186105844
+log_population + hdi,2,43.59187443420715,49.38735133238013
+log_population + median_age + median_rent,3,43.62434310896107,51.351645639858376
+log_total_area + log_population + unemployment_rate_pct + median_rent,4,44.20291265566489,53.86204081928652
+log_total_area + log_population + median_age + unemployment_rate_pct + median_rent,5,44.30817110550878,55.899124901854734
+median_age + birth_rate + unemployment_rate_pct + median_rent,4,44.36314866504949,54.022276828671124
+birth_rate + unemployment_rate_pct + median_rent,3,44.67143337036664,52.39873590126395
+log_population + birth_rate + unemployment_rate_pct + median_rent,4,44.914756104917494,54.57388426853912
+log_population + median_age + birth_rate + unemployment_rate_pct + median_rent,5,44.997681142595596,56.58863493894155
+log_population + median_age + unemployment_rate_pct + median_rent,4,45.41706108233935,55.076189245960975
+median_age + unemployment_rate_pct + median_rent,3,45.546307389338445,53.27360992023575
+log_total_area + birth_rate + unemployment_rate_pct + health_insurance_coverage_pct,4,46.467396202824915,56.126524366446546
+log_total_area + birth_rate + health_insurance_coverage_pct,3,46.775626667768584,54.50292919866589
+log_total_area + median_age + birth_rate + unemployment_rate_pct + health_insurance_coverage_pct,5,47.864453173890496,59.45540697023645
+log_total_area + median_age + birth_rate + health_insurance_coverage_pct,4,48.05967861494225,57.718806778563874
+log_total_area + log_population + birth_rate + health_insurance_coverage_pct,4,48.164782943064566,57.8239111066862
+log_total_area + log_population + birth_rate + unemployment_rate_pct + health_insurance_coverage_pct,5,48.454358432852224,60.045312229198174
+birth_rate + unemployment_rate_pct + health_insurance_coverage_pct,3,48.57962384159146,56.30692637248877
+log_total_area + unemployment_rate_pct + health_insurance_coverage_pct,3,48.611650994965636,56.33895352586294
+birth_rate + health_insurance_coverage_pct,2,49.02935964212473,54.82483654029771
+log_total_area + log_population + median_age + birth_rate + health_insurance_coverage_pct,5,49.571051280331744,61.1620050766777
+log_population + median_rent,2,49.67484724278447,55.47032414095745
+log_total_area + log_population + median_age + birth_rate + unemployment_rate_pct + health_insurance_coverage_pct,6,49.799928857194026,63.3227082862643
+median_age + unemployment_rate_pct + health_insurance_coverage_pct,3,49.9000865875573,57.6273891184546
+log_population + birth_rate + unemployment_rate_pct + health_insurance_coverage_pct,4,49.949147762314375,59.608275925936
+log_total_area + median_age + unemployment_rate_pct + health_insurance_coverage_pct,4,49.99212990091125,59.65125806453288
+median_age + birth_rate + unemployment_rate_pct + health_insurance_coverage_pct,4,50.0475193030292,59.70664746665082
+log_total_area + log_population + unemployment_rate_pct + health_insurance_coverage_pct,4,50.604475780427414,60.26360394404904
+median_age + birth_rate + health_insurance_coverage_pct,3,50.6436291059397,58.37093163683701
+unemployment_rate_pct + health_insurance_coverage_pct,2,50.75269466920947,56.54817156738245
+median_rent,1,50.85947536309987,54.72312662854852
+log_total_area + health_insurance_coverage_pct,2,50.988579247462475,56.784056145635454
+log_population + birth_rate + health_insurance_coverage_pct,3,51.02275399733037,58.750056528227674
+log_total_area + birth_rate,2,51.092860962627235,56.88833786080021
+log_total_area + log_population + health_insurance_coverage_pct,3,51.338536053954954,59.06583858485226
+log_population + median_age + birth_rate + unemployment_rate_pct + health_insurance_coverage_pct,5,51.64070975820042,63.23166355454637
+log_population + median_age + unemployment_rate_pct + health_insurance_coverage_pct,4,51.641396461049446,61.30052462467107
+log_population + unemployment_rate_pct + median_rent,3,51.65026800902087,59.377570539918175
+log_total_area + log_population + median_age + unemployment_rate_pct + health_insurance_coverage_pct,5,51.99210173665472,63.583055533000675
+log_population + unemployment_rate_pct + health_insurance_coverage_pct,3,52.093055611904994,59.8203581428023
+log_total_area + median_age + health_insurance_coverage_pct,3,52.2418077862307,59.969110317128006
+log_total_area + birth_rate + unemployment_rate_pct,3,52.455378051952906,60.18268058285021
+unemployment_rate_pct + median_rent,2,52.57484768639702,58.37032458457
+log_total_area + log_population + median_age + health_insurance_coverage_pct,4,52.598910658311425,62.258038821933056
+log_population + median_age + birth_rate + health_insurance_coverage_pct,4,52.607952678488196,62.26708084210982
+log_total_area + log_population + birth_rate,3,52.638104208303794,60.3654067392011
+log_total_area + median_age + birth_rate,3,52.9755624257305,60.702864956627806
+median_age + health_insurance_coverage_pct,2,53.00131647810622,58.7967933762792
+health_insurance_coverage_pct,1,53.28997011868095,57.1536213841296
+log_total_area + log_population + birth_rate + unemployment_rate_pct,4,54.33953812555314,63.998666289174764
+log_total_area + median_age + birth_rate + unemployment_rate_pct,4,54.381399831693734,64.04052799531536
+log_total_area + log_population + median_age + birth_rate,4,54.54704546147907,64.2061736251007
+log_population + median_age + health_insurance_coverage_pct,3,54.69088835479807,62.418190885695374
+log_population + health_insurance_coverage_pct,2,55.07375454779103,60.86923144596401
+log_total_area + log_population + median_age + birth_rate + unemployment_rate_pct,5,56.273218009591936,67.86417180593789
+log_total_area,1,57.44681161167898,61.310462877127634
+log_total_area + median_age,2,57.902778997985706,63.698255896158685
+log_total_area + unemployment_rate_pct,2,58.07731832761868,63.872795225791656
+log_total_area + log_population,2,58.09996975000039,63.89544664817337
+log_total_area + median_age + unemployment_rate_pct,3,58.30022856193724,66.02753109283454
+log_total_area + log_population + median_age,3,58.39026418051446,66.11756671141175
+birth_rate,1,58.463375337413524,62.327026602862176
+median_age + birth_rate,2,58.8499367541483,64.64541365232128
+log_total_area + log_population + unemployment_rate_pct,3,59.71208843003912,67.43939096093642
+log_total_area + log_population + median_age + unemployment_rate_pct,4,59.86311588265788,69.52224404627951
+birth_rate + unemployment_rate_pct,2,60.34398648856451,66.13946338673749
+median_age + birth_rate + unemployment_rate_pct,3,60.347237026145024,68.07453955704233
+log_population + birth_rate,2,60.424340537236255,66.21981743540923
+log_population + median_age + birth_rate,3,60.82178835378689,68.54909088468419
+log_population + median_age + birth_rate + unemployment_rate_pct,4,62.158019207967314,71.81714737158894
+log_population + birth_rate + unemployment_rate_pct,3,62.21780779294995,69.94511032384725
+median_age + unemployment_rate_pct,2,65.70804000971441,71.50351690788737
+median_age,1,66.40625759989717,70.26990886534581
+log_population + median_age + unemployment_rate_pct,3,67.17953591443884,74.90683844533613
+log_population + median_age,2,68.40444648016557,74.19992337833854
+Intercept only,0,70.3097169176425,72.24154255036683
+unemployment_rate_pct,1,71.1650136441314,75.02866490958006
+log_population,1,72.27588970702773,76.13954097247638
+log_population + unemployment_rate_pct,2,72.70873613175291,78.5042130299259

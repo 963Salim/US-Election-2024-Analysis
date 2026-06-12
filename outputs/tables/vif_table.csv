@@ -1,0 +1,9 @@
+Variable,VIF
+log_total_area,1.9872
+log_population,1.6213
+median_age,1.3105
+birth_rate,1.6444
+hdi,3.3808
+unemployment_rate_pct,2.2111
+health_insurance_coverage_pct,2.0745
+median_rent,3.1753
